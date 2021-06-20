@@ -1,2 +1,0 @@
-# ecommerceWebsite
-*some description
